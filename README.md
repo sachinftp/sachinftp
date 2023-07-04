@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sachinftp
 - 👀 I’m interested in B2C products
 - 🌱 I’m currently learning - How to publish a npm package
-- 💞️ I’m looking to collaborate on react native based projects
+- 💞️ I’m looking to collaborate on - React Native based projects
 - 📫 How to reach me - hey@sachinkalonia.com
 
 <!---
